@@ -1,0 +1,15 @@
+#accordion222 .footer-menu-item,
+#accordion222mb .footer-menu-item {
+    width: max-content;
+}
+
+section.footer .footer-content ul.footer-menu.bottom .footer-menu-item {
+    margin-bottom: 15px;
+}
+
+
+@media (max-width: 768px) {
+    .footer-web {
+        display: none;
+    }
+}

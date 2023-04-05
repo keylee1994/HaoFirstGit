@@ -1,0 +1,51 @@
+.thumbnail .caption {
+    padding: 2px;
+}
+
+.btn-taophieu {
+    text-align: right;
+}
+
+.image-file {
+    width: 100%;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.footer-file {
+    position: inherit;
+    bottom: 10px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+a.btn.btn-success {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.text-center.col-sm-4 {
+    align-self: center;
+}
+
+button.btn.btn-createfile {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    font-weight: bold;
+    font-size: 2vh;
+}
+
+button.btn.btn-createfile:hover {
+    color: #fff;
+    background-color: #005cc5;
+    border-color: #005cc5;
+    font-weight: 900;
+}
+
+i.fa {
+    margin: 5px;
+}

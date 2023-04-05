@@ -1,0 +1,12 @@
+i.material-icons {
+    margin: 0px 5px;
+}
+
+a.download-file {
+    color: blue;
+    font-style: italic;
+}
+
+a:hover {
+    text-decoration: underline blue;
+}

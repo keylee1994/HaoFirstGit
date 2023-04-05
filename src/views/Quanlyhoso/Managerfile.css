@@ -1,0 +1,61 @@
+.btn.col-sm-2 {
+    align-self: center;
+}
+
+button.btn.btn-outline-success {
+    /* min-height: -webkit-fill-available; */
+    font-size: 1vh;
+    margin: 0px 10px;
+    font-weight: bold;
+    /* bottom: 0;
+    position: absolute; */
+}
+
+.form-group.col-sm-2 {
+    /* min-height: -webkit-fill-available; */
+}
+
+
+
+@media (max-width: 768.98px) {
+
+    .table-light,
+    .table-light>th,
+    .table-light>td {
+        background-color: #fdfdfe;
+        font-size: 0.7vh;
+    }
+
+    .table>tbody>tr>td,
+    .table>tbody>tr>th,
+    .table>tfoot>tr>td,
+    .table>tfoot>tr>th,
+    .table>thead>tr>td,
+    .table>thead>tr>th {
+        padding: 6px;
+    }
+
+    ul {
+        padding: 5px;
+    }
+}
+
+tr.thead-light {
+    background: #00529c;
+    color: white;
+    text-align: center;
+}
+
+.thead-header {
+    background: #00529c;
+    color: white;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.table .thead-header th {
+    color: #495057;
+    background-color: #e9ecef;
+    border-color: red;
+    border: 1px solid red;
+}
